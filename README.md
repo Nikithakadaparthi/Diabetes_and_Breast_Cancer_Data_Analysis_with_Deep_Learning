@@ -1,8 +1,8 @@
 https://drive.google.com/file/d/1a7ELUM5cn2G9ebFanU-eEH81_oYBsSm8/view?usp=sharing
 
-📊 Diabetes and Breast Cancer Data Analysis with Deep Learning
+**📊 Diabetes and Breast Cancer Data Analysis with Deep Learning**
 
-📝 Project Overview
+**📝 Project Overview**
 
 This project focuses on analyzing and predicting health conditions using Diabetes and Breast Cancer datasets. The goal is to build deep learning models with TensorFlow and Keras to accurately classify health outcomes. The project involves data preprocessing, model building, evaluation, and visualization to derive actionable insights from the data.
 
