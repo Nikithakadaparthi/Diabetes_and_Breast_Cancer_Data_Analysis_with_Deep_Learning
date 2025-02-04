@@ -1,4 +1,5 @@
 https://drive.google.com/file/d/1a7ELUM5cn2G9ebFanU-eEH81_oYBsSm8/view?usp=sharing
+
 📊 Diabetes and Breast Cancer Data Analysis with Deep Learning
 
 📝 Project Overview
@@ -7,29 +8,29 @@ This project focuses on analyzing and predicting health conditions using Diabete
 
 📂 Table of Contents
 
-Project Overview
+1.Project Overview
 
-Datasets
+2.Datasets
 
-Project Workflow
+3.Project Workflow
 
-Model Architecture
+4.Model Architecture
 
-Technical Explanation
+5.Technical Explanation
 
-Key Results & Insights
+6.Key Results & Insights
 
-Visualizations
+7.Visualizations
 
-Technologies Used
+8.Technologies Used
 
-How to Run the Project
+9.How to Run the Project
 
-Conclusions & Future Work
+10.Conclusions & Future Work
 
-Contribution Guidelines
+11.Contribution Guidelines
 
-Author
+12.Author
 
 📊 Datasets
 
@@ -53,31 +54,31 @@ Source: Breast Cancer Wisconsin (Diagnostic) Dataset
 
 Data Preprocessing:
 
-Handling missing values
+•	Handling missing values
 
-Data normalization using StandardScaler
+•	Data normalization using StandardScaler
 
-Splitting into training and testing sets
+•	Splitting into training and testing sets
 
 Model Development:
 
-Building basic and complex neural network architectures
+•	Building basic and complex neural network architectures
 
-Using activation functions (ReLU, Sigmoid, Softmax)
+•	Using activation functions (ReLU, Sigmoid, Softmax)
 
-Compiling models with Adam optimizer
+•	Compiling models with Adam optimizer
 
 Model Evaluation:
 
-Accuracy and loss analysis
+•	Accuracy and loss analysis
 
-Model performance comparison
+•	Model performance comparison
 
 Visualization:
 
-Plotting training & validation accuracy/loss
+•	Plotting training & validation accuracy/loss
 
-Comparing activation functions and scaling effects
+•	Comparing activation functions and scaling effects
 
 🏗️ Model Architecture
 
