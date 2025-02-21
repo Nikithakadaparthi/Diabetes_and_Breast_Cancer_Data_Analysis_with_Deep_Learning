@@ -1,13 +1,13 @@
 
 
-# 📊 Diabetes and Breast Cancer Data Analysis with Deep Learning
+#  Diabetes and Breast Cancer Data Analysis with Deep Learning
 
-## 📝 **Project Overview**
+##  **Project Overview**
 This project focuses on analyzing and predicting health conditions using **Diabetes** and **Breast Cancer** datasets. The goal is to build deep learning models with **TensorFlow** and **Keras** to accurately classify health outcomes. The project involves data preprocessing, model building, evaluation, and visualization to derive actionable insights from the data.
 
 ---
 
-## 📂 **Table of Contents**
+##  **Table of Contents**
 1. [Project Overview](#-project-overview)
 2. [Datasets](#-datasets)
 3. [Project Workflow](#-project-workflow)
@@ -23,7 +23,7 @@ This project focuses on analyzing and predicting health conditions using **Diabe
 
 ---
 
-## 📊 **Datasets**
+##  **Datasets**
 
 ### 1. **Diabetes Dataset** (`diabetes.csv`)
 - **Features:** Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Age, etc.
@@ -37,7 +37,7 @@ This project focuses on analyzing and predicting health conditions using **Diabe
 
 ---
 
-## 🔍 **Project Workflow**
+##  **Project Workflow**
 
 1. **Data Preprocessing:**
    - Handling missing values
@@ -59,7 +59,7 @@ This project focuses on analyzing and predicting health conditions using **Diabe
 
 ---
 
-## 🏗️ **Model Architecture**
+## 🏗 **Model Architecture**
 
 ### 1. **Basic Model:**
 - **Layers:** Input ➔ Dense (64) ➔ Dense (32) ➔ Output (Sigmoid)
@@ -109,7 +109,7 @@ This project focuses on analyzing and predicting health conditions using **Diabe
 
 ---
 
-## 📈 **Key Results & Insights**
+##  **Key Results & Insights**
 
 - **Diabetes Model Accuracy:** Achieved up to **97.37%** accuracy with normalized data.
 - **Breast Cancer Model Accuracy:** Achieved up to **98.25%** accuracy with a complex model.
@@ -122,7 +122,7 @@ This project focuses on analyzing and predicting health conditions using **Diabe
 
 ---
 
-## 📊 **Visualizations**
+## **Visualizations**
 
 - **Accuracy & Loss Curves:** For both training and validation datasets.
 - **Model Comparison:** Performance metrics for basic vs. complex models.
@@ -138,7 +138,7 @@ This project focuses on analyzing and predicting health conditions using **Diabe
 
 ---
 
-## 🚀 **How to Run the Project**
+##  **How to Run the Project**
 
 1. **Clone the Repository:**
    ```bash
